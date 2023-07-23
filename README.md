@@ -14,6 +14,11 @@
 - 💬 Ask me anything
 
 - 📫 How to reach me **saswatighadai0809@gmail.com**
+- <div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
