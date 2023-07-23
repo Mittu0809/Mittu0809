@@ -5,6 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mittu0809" alt="mittu0809" /></a> </p>
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 
 
 - 🔭 I’m currently working on **MERN stack  App**
@@ -14,6 +18,7 @@
 - 💬 Ask me anything
 
 - 📫 How to reach me **saswatighadai0809@gmail.com**
+
 
 
 <h3 align="left">Connect with me:</h3> 
