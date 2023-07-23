@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mittu0809" alt="mittu0809" /></a> </p>
 
-https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzZranliM2FjaTFweXFpaGYwaGNjaXZ5M2p6aHBwbzZ0OGFwdGNpYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif
-
 
 
 - 🔭 I’m currently working on **MERN stack  App**
