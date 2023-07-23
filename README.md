@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mittu0809" alt="mittu0809" /></a> </p>
 
-- 🔭 I’m currently working on **Food Delivery App**
+- 🔭 I’m currently working on **MERN stack  App**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **NodeJS and ExpressJS**
 
-- 💬 Ask me about **react**
+- 💬 Ask me anything
 
 - 📫 How to reach me **saswatighadai0809@gmail.com**
 
