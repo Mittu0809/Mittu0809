@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saswati</h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
+<h3 align="center">A passionate Data Analyst enthusiast from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mittu0809&label=Profile%20views&color=0e75b6&style=flat" alt="mittu0809" /> </p>
 
@@ -11,9 +11,9 @@
 
 
 
-- 🔭 I’m currently working on **MERN stack  App**
+- 🔭 I’m currently working on **Data Analytics**
 
-- 🌱 I’m currently learning **NodeJS and ExpressJS**
+- 🌱 I’m currently learning **Tableau and data visualization **
 
 - 💬 Ask me anything
 
