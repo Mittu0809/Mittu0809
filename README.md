@@ -25,6 +25,9 @@
 - <div id="badges">
   <a href="https://www.linkedin.com/in/saswati-ghadai-19ab05222/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a> 
+  <a href="https://saswatiworkportfolio.my.canva.site/portfolio">
+    <img src="https://cdn2.vectorstock.com/i/1000x1000/49/21/portfolio-icon-for-graphic-vector-30564921.jpg" alt="Portfolio"/>
   </a>
 </div>
 <p align="left">
