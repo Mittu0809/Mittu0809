@@ -17,7 +17,7 @@
 
 - 💬 Ask me anything
 
-- 📫 How to reach me **saswatighadai0809@gmail.com**
+
 
 
 
